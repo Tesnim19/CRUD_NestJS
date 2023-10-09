@@ -1,0 +1,3 @@
+[submodule "crud_nestjs"]
+	path = crud_nestjs
+	url = C:/Program Files/Git/path/to/crud_nestjs
